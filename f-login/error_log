@@ -1,0 +1,1 @@
+[12-Apr-2021 05:23:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/hk3693/brandoholic.memology.me/f-login/check_login.php on line 10
